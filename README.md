@@ -1,12 +1,13 @@
 # cub3d
 
-# Project Overview
-Wolfenstein-Style 3D Game (C, MiniLibX): Implemented raycasting techniques to create a pseudo-3D game engine, dynamically rendering environments based on file input.
-# Wolfenstein 3D
+## Wolfenstein 3D
 Wolfenstein 3D is the ancestor of games like Doom (Id Software, 1993), Doom II (Id Software, 1994), Duke Nukem 3D (3D Realm, 1996) and Quake (Id Software, 1996), that are additional eternal milestones in the world of video games.
 Wolfenstein: (https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="wolfenstein.jpg" alt="Wolfenstein 3D game" />
+
+## Project Overview
+Wolfenstein-Style 3D Game (C, MiniLibX): Implemented raycasting techniques to create a pseudo-3D game engine, dynamically rendering environments based on file input.
 
 ### Prerequisites
 - C launguage.
