@@ -6,6 +6,5 @@ Wolfenstein: (https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="wolfenstein.jpg" alt="Wolfenstein 3D game" />
 
-Game
-
+A screenshot of the game:
 <img align="center" src="screenshot.png" alt="Screenshot of the game" />
