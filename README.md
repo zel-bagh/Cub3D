@@ -35,7 +35,7 @@ Textures for North, South, East, and West walls. Floor and ceiling colors. Map l
 ```
 
 ### A screenshot of the game
-<img align="center" src="screenshot.png" alt="Screenshot of the game" />
+<img align="center" src="screenshot.jpg" alt="Screenshot of the game" />
 
 
 
